@@ -55,7 +55,6 @@ class Window(object):
         photo.loadfile()
         photo.rectangle()
         photo.viewing()
-        print("photo")
 
 window=Tk()
 Window(window)
